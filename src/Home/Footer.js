@@ -25,7 +25,7 @@ export default function Footer() {
                 <Icons/>
             </div>
         </div>
-        <h1 className='text-[#aaaaaa] justify-center text-center items-center mx-auto pb-5 pt-2 md:text-sm text-xs tracking-widest'>Copyright ©2017-2023  elixirmagic.io</h1>
+        <h1 className='text-[#aaaaaa] justify-center text-center items-center mx-auto pb-5 pt-2 md:text-sm text-xs tracking-widest'>Copyright ©2017-2024  elixirmagic.org</h1>
     </div>
     </>
   )
