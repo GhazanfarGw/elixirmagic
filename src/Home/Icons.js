@@ -4,7 +4,7 @@ export default function Icons() {
   return (
     <>
     <a 
-      target="_black" href="https://t.me/elixirmagic" 
+      target="_black" href="https://t.me/+447415223393" 
       className="text-[#aaaaaa] items-center relative h-8 pt-0.5 first::pt-0 uppercase text-base font-bold duration-200 px-4 flex justify-center flex-row hover:text-[#ffffff] active:text-[#DFC660]" 
       rel="noreferrer">
       <svg
